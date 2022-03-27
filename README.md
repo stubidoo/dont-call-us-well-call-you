@@ -1,12 +1,24 @@
 # Don't call us, we'll call you
 
-Is an IoC library for the whole family
+Is an IoC library for the whole family.
+
+GitHub: https://github.com/stubidoo/dont-call-us-well-call-you
+
+NPM: https://www.npmjs.com/package/dont-call-us-well-call-you
 
 ## Why we need this?
 
 - It's the kind of thing that you don't know you need untill you really need it. Say you are building the next killer app, it gets so large and complex that you end up having a complicated mess of components calling each other in any old fashion. This will not scale, the soloution you could be looking for is an IoC library.
 
 ## How to use
+
+- First, let's install it:
+
+```bash
+npm i dont-call-us-well-call-you
+```
+
+-
 
 ```javascript
 let c = new Container()

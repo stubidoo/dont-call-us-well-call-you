@@ -1,6 +1,6 @@
 {
   "name": "dont-call-us-well-call-you",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IoC Container",
   "main": "src/index.js",
   "scripts": {
@@ -12,5 +12,7 @@
   "dependencies": {},
   "devDependencies": {
     "jest": "^27.5.1"
-  }
+  },
+  "repository": "https://github.com/stubidoo/dont-call-us-well-call-you",
+  "homepage": "https://github.com/stubidoo/dont-call-us-well-call-you"
 }
