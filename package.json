@@ -1,0 +1,16 @@
+{
+  "name": "dont-call-us-well-call-you",
+  "version": "1.0.0",
+  "description": "IoC Container",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Stuart Glass",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
